@@ -2,7 +2,7 @@
 data science for nanodegree program
 
 ### Medium Blog Post
-Here is the Medium blog post I have written: 
+Here is the Medium blog post I have written: https://medium.com/@zeynepelkinildas/seattle-airbnb-listing-review-b6eb7ae61fda
 
 
 ### Project Motivation
